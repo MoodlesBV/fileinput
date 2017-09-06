@@ -1,0 +1,19 @@
+{
+  "name": "fileinput",
+  "version": "1.0.0",
+  "description": "Fileinput",
+  "main": "fileinput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoodlesBV/fileinput.git"
+  },
+  "author": "Moodles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoodlesBV/fileinput/issues"
+  },
+  "homepage": "https://github.com/MoodlesBV/fileinput#readme"
+}
